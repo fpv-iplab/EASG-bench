@@ -1,0 +1,1 @@
+Github repo for the paper "EASG-Bench: Video Q&A Benchmark with Egocentric Action Scene Graphs" by Ivan Rodin, Tz-Ying Wu, Kyle Min, Sharath Nittur Sridhar, Antonino Furnari, Subarna Tripathi and Giovanni Maria Farinella
