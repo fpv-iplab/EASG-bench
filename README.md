@@ -3,6 +3,8 @@ Ivan Rodin<sup>*1</sup>, Tz-Ying Wu<sup>*2</sup>, Kyle Min<sup>2</sup>, Sharath 
 
 <sup>1</sup>University of Catania    <sup>2</sup>Intel Labs
 
+[[Paper]](https://arxiv.org/pdf/2506.05787)
+
 We introduce **EASG-Bench**, a question-answering benchmark for egocentric videos where the question-answering pairs are created from spatio-temporally grounded dynamic scene graphs capturing intricate relationships among actors, actions, and objects. We propose a systematic evaluation framework and evaluate several language-only and video large language models (video-LLMs) on this benchmark. We observe a performance gap in language-only and video-LLMs, especially on questions focusing on temporal ordering, thus identifying a research gap in the area of long-context video understanding.
 
 ## Benchmark Creation
